@@ -4,7 +4,7 @@ Move files from your PC to WSA downloads
 this is a clone with required modifications of 
 https://github.com/HarshalKudale/EasySideload-WSA/edit/main/README.md
 
-thank you!
+Thank you Harshal !
 
 # how to ?
 
