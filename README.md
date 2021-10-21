@@ -22,5 +22,5 @@ To push files just put them in same directory and then drag and drop on pusher.
 
 ![image](https://user-images.githubusercontent.com/33003891/138291102-fb8730ff-64de-4298-84d8-2ce372d0cdc7.png)
 
-file will be pushed.
+file will be pushed to downloads folder.
 
